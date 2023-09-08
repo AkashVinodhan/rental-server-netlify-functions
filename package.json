@@ -4,8 +4,8 @@
   "description": "",
   "main": "api.js",
   "scripts": {
-    "start": "node api.js"
-    
+    "start": "node api.js",
+    "build" : "netlify deploy --prod"
   },
   "keywords": [],
   "author": "",
